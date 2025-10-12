@@ -17,7 +17,7 @@
 
 <div align="center">
  
- 🔭 I’m currently specializing in **Artificial Intelligence and Machine Learning**
+ 🔭 Specializing in **Artificial Intelligence and Machine Learning**
  
  🌱 I’m currently learning **LLMs**
 
