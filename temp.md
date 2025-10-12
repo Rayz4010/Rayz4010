@@ -1,3 +1,10 @@
+<div align="center">
+    <a href="https://github.com/kawarimidoll/typograssy">
+        <img alt="typograssy" src="https://typograssy.deno.dev/api?text=%E3%82%8F%E3%81%9F%E3%81%97%E3%81%AE%E5%90%8D%E3%81%AF%E3%80%81%E3%83%AC%E3%83%83%E3%82%AF%E3%82%A6%E3%82%B6%E3%83%BC%E3%81%A7%E3%81%99%20%20%20%20%20%20%20%20%20%20&l0=000000&l1=96d35f&l2=77bb41&l3=669c35&l4=263e0f&bg=none&frame=none&speed=100&comment=Just%20an%20average%20engineer's%20average%20readme">
+    </a>
+</div>
+
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Rayz4010.Rayz4010" />
 
 <h1 align="center">
@@ -12,11 +19,11 @@
  
  🔭 I’m currently specializing in **Artificial Intelligence and Machine Learning**
  
- 🌱 I’m currently learning **Mathematics**
+ 🌱 I’m currently learning **LLMs**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Can ask me about **my works or projects [here](https://github.com/Rayz4010/Rayz4010/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **The first computer bug was literally a bug.**
 
  </div>
  
@@ -37,7 +44,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=python,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r,conda" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
 </div>
 
