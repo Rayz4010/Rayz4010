@@ -19,7 +19,7 @@
  
  🔭 Specializing in **Artificial Intelligence and Machine Learning**
  
- 🌱 I’m currently learning **LLMs**
+ 🌱 I’m currently learning about **LLMs**
 
 💬 Can ask me about **my works or projects [here](https://github.com/Rayz4010/Rayz4010/issues)**
 
