@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://github.com/kawarimidoll/typograssy">
-        <img alt="typograssy" src="https://typograssy.deno.dev/api?text=%E3%82%8F%E3%81%9F%E3%81%97%E3%81%AE%E5%90%8D%E3%81%AF%E3%80%81%E3%83%AC%E3%83%83%E3%82%AF%E3%82%A6%E3%82%B6%E3%83%BC%E3%81%A7%E3%81%99%20%20%20%20%20%20%20%20%20%20&l0=000000&l1=96d35f&l2=77bb41&l3=669c35&l4=263e0f&bg=none&frame=none&speed=100&comment=Just%20an%20average%20engineer's%20average%20readme">
+        <img alt="いらっしゃいませ" src="https://typograssy.kawarimidoll.deno.net/api?scheme=dark&text=%E3%81%84%E3%82%89%E3%81%A3%E3%81%97%E3%82%83%E3%81%84%E3%81%BE%E3%81%9B%EF%BC%81&comment=%E3%81%88%E3%81%88%E3%81%A8%E3%80%81%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%82%8F&comment-color=ffffff">
     </a>
 </div>
 
