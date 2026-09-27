@@ -59,6 +59,7 @@
   <br/><br/><br/>
 </div>
 
+<!--
 <hr/>
 
 <h2 align="center"> Stats </h2>
@@ -70,7 +71,7 @@
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayz4010&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
 </div>
-
+--!>
 <br/><br/>
 
 <hr/>
